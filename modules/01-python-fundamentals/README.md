@@ -1,6 +1,6 @@
 # Module 01: Python Fundamentals
 
-![Module 01 Banner](../../assets/images/module-01-banner.png)
+![Module 01 Banner](assets/images/module-01-banner.png)
 
 ---
 
